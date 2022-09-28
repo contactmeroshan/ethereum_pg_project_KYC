@@ -1,5 +1,5 @@
-# ethereum Post Graduate project_KYC
-**Decentralized KYC Verification Process for Banks**
+# ethereum Post Graduate KYC project
+**SIMPLILEARN Decentralized KYC Verification Process for Banks**
 
 Project 1
 
