@@ -1,9 +1,7 @@
 # ethereum Post Graduate KYC project
 **SIMPLILEARN Decentralized KYC Verification Process for Banks**
 
-Project 1
-
-DESCRIPTION
+##########----------    Project - DESCRIPTION  ----------############
 
 Central Bank and other government banks face issues in tracking money laundering activities that are used for terrorism and other crimes. It is a threat to national security and is also adversely affecting the economy.
 
